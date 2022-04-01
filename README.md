@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Rdepablos85
+- 👀 I’m interested in learining about programing app on android os
+- - 🌱 I’m currently learning some basics on grasshoper system learning
